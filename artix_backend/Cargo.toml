@@ -18,3 +18,4 @@ llm = { git = "https://github.com/rustformers/llm" , branch = "main" }
 openssl = { version = "0.10.35", features = ["vendored"] }
 serde_json = "1.0"
 rand = "0.8.5"
+actix-cors = "0.7.0"
